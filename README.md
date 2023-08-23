@@ -1,5 +1,5 @@
 # 💫 About Me:
-I,am looking job 
+Looking for a job as a Java Developer 
 
 
 ## 🌐 Socials:
