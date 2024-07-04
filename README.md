@@ -1,6 +1,5 @@
 # 💫 About Me:
-Looking for a job as a Java Developer 
-
+Java Developer 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/feridferecli2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/f%C9%99rid-f%C9%99r%C9%99cli-758264211/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@feridferecli2001) 
